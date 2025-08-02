@@ -22,4 +22,4 @@ Add `tzlink` to your `Cargo.toml`:
 tzlink = "0.1.0"
 ```
 
-come to contribute waiting for you 😊
+come to contribute we waiting for you 😊
