@@ -1,11 +1,11 @@
 
-# 🇹🇿 tzlink
+🇹🇿 tzlink
 
 **The all-in-one Rust crate for Tanzanian developers.**
 
 `tzlink` is a Rust crate designed to simplify access to Tanzanian digital infrastructure. Whether you're building fintech, government integrations, telco tools, or local data systems — `tzlink` provides a unified, idiomatic interface for interacting with services tailored to Tanzania.
 
-## ✨ Features
+Features
 
 - Easy-to-use async API
 - Designed for scalability and extensibility
@@ -13,7 +13,7 @@
 - Fast and efficient — built with Rust
 - Developer-first with clear documentation
 
-## 🚀 Getting Started
+🚀 Getting Started
 
 Add `tzlink` to your `Cargo.toml`:
 
