@@ -10,7 +10,7 @@ Features
 - Easy-to-use async API
 - Designed for scalability and extensibility
 - Modular structure for clean integration
-- Fast and efficient — built with Rust
+- Fast and efficient.. built with Rust
 - Developer-first with clear documentation
 
 🚀 Getting Started
